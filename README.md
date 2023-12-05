@@ -3,6 +3,7 @@
 
 
 **npm i** for install node packages
+<br>
 **npm run start** for go to live serve
 **npm run build** for ready for prod env.
 **npm run electron** for build to desktop app.
